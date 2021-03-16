@@ -1,0 +1,12 @@
+{
+    "meta":{
+        "package":"ru.foodtechlab.sandbox.service",
+        "title":"Customer",
+        "resource":"customer",
+        "version":"1"
+    },
+    "documentation":{
+        "tag":"Customer API",
+        "description":"Документация покупателя"
+    }
+}
